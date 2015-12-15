@@ -1,0 +1,37 @@
+.jumbotron {
+  background-image:url('images/background.png');
+  height: 450px;
+  text-align: center
+}
+
+.learn-more {
+  background-color: #f7f7ff;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+.neighborhood-guides {
+  background-color: #efefef;
+  border-bottom:1px solid #dbdbdb;
+}
+.row .col-md-4 .thumbnail{
+    border-style: solid;
+    border-color: #F4C1B1;
+}
+.neighborhood-guides h2 {
+  color: #393c3d;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.neighborhood-guides p {
+  margin-bottom: 13px;
+  font-size: 15px;
+}
